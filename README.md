@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Yaqi 👋</h1>
+<h1 align="center">Hi, I'm Yaqi 👋 you can also call me Zia. </h1>
 
 <p align="center">
-  CS student at the University of Manchester — interested in
-  <b>AI for sequential decision-making</b> and <b>graph / NLP machine learning</b>.
+   I'm interested in
+  <b>AI for sequential decision-making</b>, <b>graph / NLP machine learning</b>, <b> Game development </b> and  <b>Robotics</b> .
 </p>
 
 ---
@@ -25,10 +25,9 @@
 
 ### 📫 Get in touch
 
-<!-- Fill these in before you publish -->
-- ✉️ &nbsp; *your email*
-- 💼 &nbsp; *your LinkedIn URL*
-- 🌐 &nbsp; *your portfolio / blog URL (optional)*
+- ✉️ &nbsp; 
+- 💼 &nbsp;
+- 🌐 &nbsp;
 
 <p align="center">
   <i>Looking for AI / ML / research roles — happy to chat.</i>
