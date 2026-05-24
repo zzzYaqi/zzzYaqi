@@ -7,16 +7,6 @@
 
 ---
 
-### 🧠 What I work on
-
-- **Game-playing AI** — MCTS + RAVE agent for Hex
-  ([`hex_chessgame_ai`](https://github.com/zzzYaqi/hex_chessgame_ai))
-- **Graph representation learning** — DeepWalk, Node2Vec, Spectral
-  embeddings + a Django dashboard
-  ([`simpleGraphEmbedding`](https://github.com/zzzYaqi/simpleGraphEmbedding))
-- **Chinese NLP** — 6-site crawler + SnowNLP sentiment pipeline +
-  Flask dashboard
-  ([`Chinese-News-Sentiment-Analysis`](https://github.com/zzzYaqi/Chinese-News-Sentiment-Analysis))
 
 ### 🛠️ Tools I reach for first
 
@@ -25,9 +15,7 @@
 
 ### 📫 Get in touch
 
-- ✉️ &nbsp; 
-- 💼 &nbsp;
-- 🌐 &nbsp;
+- ✉️ &nbsp; ziayaqi17@gmail.com
 
 <p align="center">
   <i>Looking for AI / ML / research roles — happy to chat.</i>
